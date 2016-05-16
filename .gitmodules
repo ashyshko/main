@@ -1,0 +1,3 @@
+[submodule "libs/sub1"]
+	path = libs/sub1
+	url = git@github.com:ashyshko/sub1.git
